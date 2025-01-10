@@ -1,0 +1,9 @@
+{
+    "name": "wa4uaz",
+    "description": null,
+    "projects": {
+        "shark-wa4uaz": "shark-wa4uaz/dub.json"
+    },
+    "includePath": {
+    }
+}
